@@ -105,7 +105,7 @@ You should be logged on your VDI as *student*.
 1. Clean *Downloads* folder by running the following commands:
 
 	```
-	rm -r Downloads/MQonCP4I*
+	rm -r MQonCP4I*
 	rm -r Downloads/mqoncp4i-main*
 	```
 
